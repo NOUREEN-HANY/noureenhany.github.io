@@ -33,15 +33,16 @@ body>b,p{
 		 margin-right:auto;
         }
 
-.text{
+section{
 	width:100%;
-	border:solid 2px;
+	border:2px;
 	overflow-x:auto;
 }
 @media(max-width:600px){
-                 .text{
-					 width:90%;
+                 section{
+					 width:100%;
 					 border-collabse:collapse;
+					 display:block;
 				 }
 	form{
 		display:flex;
@@ -90,6 +91,7 @@ form{
 	margin:auto;
 	border: 2px;
 	font-size:15px;
+	background:grey;
 }
 label{display:block;
 	  font-size:20px;
