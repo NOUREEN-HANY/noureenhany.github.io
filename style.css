@@ -86,7 +86,6 @@ td:hover{
 form{ 
     display:block;
 	width:100%;
-	height:40vh;
 	padding: 30px  15px;
 	justify-content:center;
 	align-items:center;
@@ -106,12 +105,12 @@ label:hover{
 		   transform:scale(1.0);
 }
 input{width: 100%;
-                                                           height:40vh;
+                                                           height:20vh;
 							                               border:2px solid;
 					                            		   box-sizing:border-box;
 														   padding:15px 20px;
 														   font-size:18px;
-														   margin-tpop:10px;
+														   margin-top:10px;
 														   display:block;
 														   background:grey;
                                                           }
