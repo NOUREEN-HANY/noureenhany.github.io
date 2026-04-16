@@ -49,7 +49,12 @@ body>b,p{
 		min-height:100vh;
 		margin:auto;
 		width:90%;
+		height:70vh;
 		margin-top:70px;
+		justify-content:center;
+		align-content:center;
+		padding:50px 0px;
+		box-sizing:border-box;
 	}
 }
 tr.x td{
