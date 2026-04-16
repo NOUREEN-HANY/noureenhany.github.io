@@ -33,12 +33,16 @@ body>b,p{
 		 margin-right:auto;
         }
 
-table{
+.table text{
 	width:100%;
 	border:solid 2px;
 	overflow-x:auto;
 }
-
+@media(max-width:600px){
+                 table{
+					 min-width:600px;
+				 }
+}
 tr.x td{
 	color:black;
 	background:purple;
