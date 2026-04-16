@@ -40,8 +40,17 @@ body>b,p{
 }
 @media(max-width:600px){
                  .text{
-					 min-width:600px;
+					 width:90%;
+					 border-collabse:collapse;
 				 }
+	form{
+		display:flex;
+		flex-direction:column;
+		min-height:100vh;
+		margin:auto;
+		width:90%;
+		margin-top:70px;
+	}
 }
 tr.x td{
 	color:black;
