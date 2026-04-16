@@ -43,6 +43,7 @@ section{
 					 width:100%;
 					 border-collabse:collapse;
 					 display:block;
+					 transform:scale(1.0);
 				 }
 	form{
 		display:flex;
