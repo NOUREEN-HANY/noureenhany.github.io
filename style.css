@@ -39,7 +39,7 @@ body>b,p{
 	overflow-x:auto;
 }
 @media(max-width:600px){
-                 table{
+                 .table{
 					 min-width:600px;
 				 }
 }
