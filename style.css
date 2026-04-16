@@ -50,8 +50,8 @@ section{
 		flex-direction:column;
 		min-height:100vh;
 		margin:auto;
-		width:70%;
-		
+		width:100%;
+		border:2px grey;
 		margin-top:10px;
 		justify-content:center;
 		align-content:center;
@@ -91,7 +91,7 @@ form{
 	align-items:center;
 	flex-direction:column;
 	margin:auto;
-	border: 2px;
+	border: 2px grey;
 	font-size:15px;
 	background:grey;
 }
